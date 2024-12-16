@@ -76,7 +76,7 @@ Currently, I'm:
 ---
 
 ### 🌟 Connect With Me  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakinandan-palla-164848227/)  
 - 📧 Email: [devakinandanpp@gmail.com](mailto:youremail@example.com)
 
 ✨ **Fun Fact**: I am familiar with conversing in 6 languages!! (no, this does not include programming languages hehe XD )
