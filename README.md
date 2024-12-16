@@ -82,4 +82,4 @@ Currently, I'm:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakinandan-palla-164848227/)  
 - 📧 Email: [devakinandanpp@gmail.com](mailto:youremail@example.com)
 
-✨ **Fun Fact**: I am familiar with conversing in 6 languages!! (no, this does not include programming languages hehe XD )
+✨ **Fun Fact**: Apart from all the programming languages, I can also converse in 6 different languages: Englishh, Telugu, Tamil, Hindi, French and a little bit of German!
