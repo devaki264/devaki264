@@ -68,7 +68,7 @@ Currently, I'm:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)  
-![Zendesk](([https://img.shields.io/badge/Zendesk-00000F?style=flat&logo=mysql&logoColor=white](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white))
+![Zendesk](https://img.shields.io/badge/Zendesk-00000F?style=flat&logo=mysql&logoColor=white](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
  
 
 ---
