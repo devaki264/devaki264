@@ -53,9 +53,12 @@ Currently, I'm:
 
 ### 💡 Tech Stack  
 
-**Languages**:  
+**Languages**:   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
 
 **Hardware and Design**:  
 ![Verilog](https://img.shields.io/badge/Verilog-EB9A18?style=flat) ![FPGA](https://img.shields.io/badge/FPGA-00599C?style=flat) ![VLSI](https://img.shields.io/badge/VLSI-0064A5?style=flat)  
