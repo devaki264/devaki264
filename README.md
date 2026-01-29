@@ -45,7 +45,7 @@ Currently, I'm:
 
 #### **🏠 Business Analytics Projects**
 - **Housing Price Prediction Using Zillow Dataset**  
-  Modeled housing prices using regression and clustering techniques (**K-Median**, **DBSCAN**, **Random Forest**, **XGBoost**). Provided actionable insights for real estate firms.  
+  Modeled housing prices using regression and clustering techniques (**K-Median**, **DBSCAN**, **Random Forest**, **XGBoost**, **CatBoost**). Provided actionable insights for real estate firms.  
 - **Sales Forecasting for Amazon Prime vs Netflix**  
   Created Tableau dashboards comparing platform performances to identify market opportunities.
 
