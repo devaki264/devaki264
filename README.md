@@ -3,15 +3,21 @@
 ---
 
 ### 😎 About Me  
-I'm **Devakinandan Palla**, an **Electronics and Communication Engineer** turned tech enthusiast with experience spanning **FPGA development**, **AI/ML projects**, and **data/ business analytics**. I thrive on designing hardware systems, exploring machine learning applications, and solving complex problems across various domains.  
+I'm **Devakinandan Palla**, an **Electronics and Communication Engineer** turned tech enthusiast with experience spanning **FPGA development**, **AI/ML projects**, and **data/business analytics**. I thrive on designing hardware systems, exploring machine learning applications, and solving complex problems across various domains.  
 
 Currently, I'm:  
 - Building advanced AI models and applications.  
-- Diving deep into **business analytics** to enhance decision-making systems.
+- Diving deep into **business analytics** to enhance decision-making systems.  
+- Building **AI Job Match Agent**, an intelligent job matching platform that helps candidates discover **freshly posted roles** from company career pages using **AI-powered resume parsing** and **semantic matching**.  
 
 ---
 
 ### 🚀 Projects I've Worked On  
+
+#### **🤖 AI Product Projects**
+- **AI Job Match Agent**  
+  Built an intelligent job matching platform designed to help users find **fresh job postings** directly from company career pages. Uses **AI-powered resume parsing** and **semantic matching** to connect job seekers with relevant opportunities quickly.  
+  - 🔗 Live Website: [AI Job Match Agent](https://ai-job-match-agent-686566480080.us-central1.run.app)
 
 #### **🔧 Electronics and Communication Projects**
 - **Implementation of RSA on FPGA**  
@@ -59,21 +65,22 @@ Currently, I'm:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-
 **Hardware and Design**:  
-![Verilog](https://img.shields.io/badge/Verilog-EB9A18?style=flat) ![FPGA](https://img.shields.io/badge/FPGA-00599C?style=flat) ![VLSI](https://img.shields.io/badge/VLSI-0064A5?style=flat)  
+![Verilog](https://img.shields.io/badge/Verilog-EB9A18?style=flat)  
+![FPGA](https://img.shields.io/badge/FPGA-00599C?style=flat)  
+![VLSI](https://img.shields.io/badge/VLSI-0064A5?style=flat)  
 
 **AI/ML**:  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
 
 **Tools and Platforms**:  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)  
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
-
- 
 
 ---
 
@@ -85,6 +92,6 @@ Currently, I'm:
 
 ### 🌟 Connect With Me  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakinandan-palla-164848227/)  
-- 📧 Email: [devakinandanpp@gmail.com](mailto:youremail@example.com)
+- 📧 Email: [devakinandanpp@gmail.com](mailto:devakinandanpp@gmail.com)
 
-✨ **Fun Fact**: Apart from all the programming languages, I can also converse in 6 different languages: Englishh, Telugu, Tamil, Hindi, French and a little bit of German!
+✨ **Fun Fact**: Apart from programming languages, I can also converse in 6 different languages: English, Telugu, Tamil, Hindi, French, and a little bit of German!
