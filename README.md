@@ -3,7 +3,7 @@
 ---
 
 ### 😎 About Me  
-I'm **Devakinandan Palla**, an **Electronics and Communication Engineer** turned tech enthusiast with experience spanning **FPGA development**, **AI/ML projects**, and **data/business analytics**. I thrive on designing hardware systems, exploring machine learning applications, and solving complex problems across various domains.  
+I'm **Devakinandan Palla**, an **Electronics and Communication Engineer** turned tech enthusiast with experience spanning **FPGA development**, **AI/ML projects**, and **data/business analytics**. I thrive on designing hardware systems, exploring machine learning applications, and solving complex problems across various domains.
 
 Currently, I'm:  
 - Building advanced AI models and applications.  
@@ -37,7 +37,7 @@ Currently, I'm:
 - **Simple Weather Prediction Model**  
   Created a predictive model for basic weather conditions using machine learning.  
 - **Language Translator**  
-  Implemented a neural network-based translation tool for multi-lingual applications.  
+  Implemented a neural network-based translation tool for multi-lingual applications (English to Telugu Language Translator)
 
 #### **🧠 AI Coursework Projects**
 - **Artificial Neural Networks for Heart Failure Prediction**  
