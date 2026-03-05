@@ -16,7 +16,7 @@ Currently, I'm:
 
 #### **🤖 AI Product Projects**
 - **AI Job Match Agent**  
-  Built an intelligent job matching platform designed to help users find **fresh job postings** directly from company career pages. Uses **AI-powered resume parsing** and **semantic matching** to connect job seekers with relevant opportunities quickly.  
+  Built an intelligent job matching platform designed to help users find **fresh job postings** directly from company career pages. Uses **AI-powered resume parsing** and **semantic matching** to connect job seekers      with relevant opportunities quickly.  
   - 🔗 Live Website: [AI Job Match Agent](https://ai-job-match-agent-686566480080.us-central1.run.app)
 
 #### **🔧 Electronics and Communication Projects**
