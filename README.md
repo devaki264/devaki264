@@ -84,10 +84,16 @@ Currently, I'm:
 
 ---
 
-### 📊 GitHub Stats  
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaki264&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaki264&layout=compact&langs_count=8&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devaki264&show_icons=true&theme=radical" alt="Dev's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaki264&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
+</p>
+
 ---
 
 ### 🌟 Connect With Me  
