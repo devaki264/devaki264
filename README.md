@@ -84,17 +84,7 @@ Currently, I'm:
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devaki264&show_icons=true&theme=radical" alt="Dev's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaki264&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ### 🌟 Connect With Me  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakinandan-palla-164848227/)  
